@@ -1,7 +1,0 @@
-Executable : /Users/erikfer94/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
-arguments : 
--C
-/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/.cxx/cmake/debug/x86
-nodejs-mobile-react-native-native-lib
-jvmArgs : 
-
