@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/erikfer94/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/.cxx/cmake/debug/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/erikfer94/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/.cxx/cmake/debug/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nodejs-mobile-react-native-native-lib-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/erikfer94/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/.cxx/cmake/debug/arm64-v8a",
+        "nodejs-mobile-react-native-native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "nodejs-mobile-react-native-native-lib",
+      "output": "/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/build/intermediates/cmake/debug/obj/arm64-v8a/libnodejs-mobile-react-native-native-lib.so",
+      "runtimeFiles": [
+        "/Users/erikfer94/Proyectos/diso/instagram-analytics/node_modules/nodejs-mobile-react-native/android/libnode/bin/arm64-v8a/libnode.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
